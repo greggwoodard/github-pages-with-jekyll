@@ -1,4 +1,3 @@
-
 ---
 title: "Gregg Woodard blog post"
 date: 2018-10-09
